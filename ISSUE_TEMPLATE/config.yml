@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 💬 Ask a question
+    url: https://github.com/nuclear-community/.github/discussions
+    about: Questions about nuclear science and engineering belong in Discussions, not issues.
+  - name: 🌐 Community website
+    url: https://nuclear-community.github.io/
+    about: Learn what the community is about and how to get involved.
+  - name: 🎓 Learning path
+    url: https://github.com/nuclear-community/nuclear-101
+    about: Start (or continue) the structured self-study path.
